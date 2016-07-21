@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+shift_ctrl(${1:ui_id}, ${2:off_x}, ${3:off_y})
+]]></content>
+	<tabTrigger>shift_ctrl</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>
