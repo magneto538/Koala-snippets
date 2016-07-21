@@ -11,5 +11,5 @@ Koala GitHub repo - https://github.com/magneto538/Koala
 This repository contains only the Snippets for Sublime Text 3. You can install this through [Package Control](https://packagecontrol.io/installation).
 
 1. Press <kbd>cmd/ctrl</kbd> + <kbd>shift</kbd> + <kbd>p</kbd> to open the command palette.
-2. Type *"install package"* and press enter. Then search for *"Material Theme"*
+2. Type *"Install package"* and press enter. Then search for *"Koala KSP Library - Snippets"*
 
