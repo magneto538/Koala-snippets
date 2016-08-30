@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+TRUE
+]]></content>
+	<tabTrigger>TRUE</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>

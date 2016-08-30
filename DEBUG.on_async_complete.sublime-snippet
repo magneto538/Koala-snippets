@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+DEBUG.on_async_complete
+]]></content>
+	<tabTrigger>DEBUG.on_async_complete</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>

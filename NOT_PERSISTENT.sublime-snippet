@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+NOT_PERSISTENT
+]]></content>
+	<tabTrigger>NOT_PERSISTENT</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>

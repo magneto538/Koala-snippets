@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-group_fx(${1:fx_type}, ${2:slot}, ${3:group})
+group_fx(${1:fx_type}, ${2:fx_subtype}, ${3:slot}, ${4:group})
 ]]></content>
 	<tabTrigger>group_fx</tabTrigger>
 	<scope>source.ksp</scope>

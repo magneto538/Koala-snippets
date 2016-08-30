@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+TABLES
+]]></content>
+	<tabTrigger>TABLES</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>

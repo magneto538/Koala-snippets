@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+MAX_ARRAY_SIZE
+]]></content>
+	<tabTrigger>MAX_ARRAY_SIZE</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>

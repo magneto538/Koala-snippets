@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+DEBUG.on_pgs_changed
+]]></content>
+	<tabTrigger>DEBUG.on_pgs_changed</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>

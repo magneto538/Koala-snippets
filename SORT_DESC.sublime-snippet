@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+SORT_DESC
+]]></content>
+	<tabTrigger>SORT_DESC</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>
