@@ -1,201 +1,200 @@
-0, #, *	
-	* `0_dB_12`
-	* `0_dB_24`
-	* `_MAX_KSP_VALUE`
+## 0, #, *	
+* `0_dB_12`
+* `0_dB_24`
+* `_MAX_KSP_VALUE`
 
-A	
-	* `add_group_id`
-	* `add_group_name`
-	* `add_menu_entry`
-	* `ALL_ROWS`
-	* `allow_group_folder`
-	* `allow_group_folder`
+## A	
+* `add_group_id`
+* `add_group_name`
+* `add_menu_entry`
+* `ALL_ROWS`
+* `allow_group_folder`
 
-B
-	* `bus_fx`
-	* `bus_fx_par`
-	* `BUTTONS`
+## B
+* `bus_fx`
+* `bus_fx_par`
+* `BUTTONS`
 
-C
-	* `CENTER`
-	* `concat`
-	* `copy`
-	* `copy_matrix`
-	* `count_entries`
-	* `create_button`
-	* `create_family`
-	* `create_file_selector`
-	* `create_group_folder`
-	* `create_instrument`
-	* `create_knob`
-	* `create_level_meter`
-	* `create_menu`
-	* `create_pic_label`
-	* `create_slider`
-	* `create_switch`
-	* `create_table`
-	* `create_text_edit`
-	* `create_text_label`
-	* `create_value_edit`
-	* `create_waveform`
+## C
+* `CENTER`
+* `concat`
+* `copy`
+* `copy_matrix`
+* `count_entries`
+* `create_button`
+* `create_family`
+* `create_file_selector`
+* `create_group_folder`
+* `create_instrument`
+* `create_knob`
+* `create_level_meter`
+* `create_menu`
+* `create_pic_label`
+* `create_slider`
+* `create_switch`
+* `create_table`
+* `create_text_edit`
+* `create_text_label`
+* `create_value_edit`
+* `create_waveform`
 
-D
-	* `DEBUG.add_log`
-	* `DEBUG.custom_button`
-	* `DEBUG.custom_value_edit`
-	* `DEBUG.groups_monitor`
-	* `DEBUG.on_async_complete`
-	* `DEBUG.on_controller`
-	* `DEBUG.on_init`
-	* `DEBUG.on_listener`
-	* `DEBUG.on_note`
-	* `DEBUG.on_persistence_changed`
-	* `DEBUG.on_pgs_changed`
-	* `DEBUG.on_poly_at`
-	* `DEBUG.on_release`
-	* `DEBUG.on_rpn_nrpn`
-	* `DEBUG.on_ui_control`
-	* `DEBUG.on_ui_update`
-	* `disallow_group_folder`
+## D
+* `DEBUG.add_log`
+* `DEBUG.custom_button`
+* `DEBUG.custom_value_edit`
+* `DEBUG.groups_monitor`
+* `DEBUG.on_async_complete`
+* `DEBUG.on_controller`
+* `DEBUG.on_init`
+* `DEBUG.on_listener`
+* `DEBUG.on_note`
+* `DEBUG.on_persistence_changed`
+* `DEBUG.on_pgs_changed`
+* `DEBUG.on_poly_at`
+* `DEBUG.on_release`
+* `DEBUG.on_rpn_nrpn`
+* `DEBUG.on_ui_control`
+* `DEBUG.on_ui_update`
+* `disallow_group_folder`
 
-E	
-	* `empty`
-	* `engine_par_all_grp`
-	* `engine_par_grp`
+## E	
+* `empty`
+* `engine_par_all_grp`
+* `engine_par_grp`
 
-F
-	* `FALSE`
-	* `FILE_SELECTOR`
+## F
+* `FALSE`
+* `FILE_SELECTOR`
 
-G
-	* `get_def_height`
-	* `get_def_picture`
-	* `get_def_pos_x`
-	* `get_def_pos_y`
-	* `get_def_value`
-	* `get_def_visibility`
-	* `get_family_ctrl_amount`
-	* `get_family_values`
-	* `get_height`
-	* `get_picture`
-	* `get_picture_state`
-	* `get_pos_x`
-	* `get_pos_y`
-	* `get_type`
-	* `get_value`
-	* `get_visibility`
-	* `get_width`
-	* `group_fx`
-	* `group_fx_par`
+## G
+* `get_def_height`
+* `get_def_picture`
+* `get_def_pos_x`
+* `get_def_pos_y`
+* `get_def_value`
+* `get_def_visibility`
+* `get_family_ctrl_amount`
+* `get_family_values`
+* `get_height`
+* `get_picture`
+* `get_picture_state`
+* `get_pos_x`
+* `get_pos_y`
+* `get_type`
+* `get_value`
+* `get_visibility`
+* `get_width`
+* `group_fx`
+* `group_fx_par`
 
-H	
-	* `HORIZONTAL`
+## H	
+* `HORIZONTAL`
 
-I
-	* `insert_fx`
-	* `insert_fx_par`
-	* `INVERT`
-	* `INVISIBLE`
+## I
+* `insert_fx`
+* `insert_fx_par`
+* `INVERT`
+* `INVISIBLE`
 
-K
-	* `KNOBS`
+## K
+* `KNOBS`
 
-L
-	* `LEFT`
-	* `LEFT_CH`
-	* `LEVEL_METERS`
+## L
+* `LEFT`
+* `LEFT_CH`
+* `LEVEL_METERS`
 
-M
-	* `MAX_ARRAY_SIZE`
-	* `MAX_GROUPS`
-	* `max_value`
-	* `MENUS`
-	* `message_1`
-	* `message_10`
-	* `message_2`
-	* `message_3`
-	* `message_4`
-	* `message_5`
-	* `message_6`
-	* `message_7`
-	* `message_8`
-	* `message_9`
-	* `min_value`
-	* `MIXED`
+## M
+* `MAX_ARRAY_SIZE`
+* `MAX_GROUPS`
+* `max_value`
+* `MENUS`
+* `message_1`
+* `message_10`
+* `message_2`
+* `message_3`
+* `message_4`
+* `message_5`
+* `message_6`
+* `message_7`
+* `message_8`
+* `message_9`
+* `min_value`
+* `MIXED`
 
-N
-	* `NO`
-	* `NONE`
-	* `NORMAL`
-	* `NOT_PERSISTENT`
+## N
+* `NO`
+* `NONE`
+* `NORMAL`
+* `NOT_PERSISTENT`
 
-O
-	* `OFF`
-	* `ON`
+## O
+* `OFF`
+* `ON`
 
-P
-	* `PERSISTENT`
-	* `PIC_LABELS`
-	* `place_on_grid`
-	* `purge_group_folder`
+## P
+* `PERSISTENT`
+* `PIC_LABELS`
+* `place_on_grid`
+* `purge_group_folder`
 
-R
-	* `reset_ctrl_pic`
-	* `reset_ctrl_text`
-	* `reset_family_font`
-	* `reset_family_pics`
-	* `reset_family_pos`
-	* `reset_family_text`
-	* `reset_family_values`
-	* `reset_family_visibility`
-	* `reset_font`
-	* `reset_picture_state`
-	* `reset_pos`
-	* `reset_value`
-	* `reset_visibility`
-	* `resize_ctrl`
-	* `restore_visibility_settings`
-	* `reverse`
-	* `RIGHT`
-	* `RIGHT_CH`
+## R
+* `reset_ctrl_pic`
+* `reset_ctrl_text`
+* `reset_family_font`
+* `reset_family_pics`
+* `reset_family_pos`
+* `reset_family_text`
+* `reset_family_values`
+* `reset_family_visibility`
+* `reset_font`
+* `reset_picture_state`
+* `reset_pos`
+* `reset_value`
+* `reset_visibility`
+* `resize_ctrl`
+* `restore_visibility_settings`
+* `reverse`
+* `RIGHT`
+* `RIGHT_CH`
 
-S
-	* `search_ctrl_number`
-	* `send_fx`
-	* `send_fx_par`
-	* `SEQUENTIAL`
-	* `set_array`
-	* `set_ctrl_pic`
-	* `set_ctrl_text`
-	* `set_family_values`
-	* `set_family_visibility`
-	* `set_font`
-	* `set_level_meter_color`
-	* `set_picture_state`
-	* `set_pos`
-	* `set_value`
-	* `set_visibility`
-	* `shift_ctrl`
-	* `shift_family`
-	* `SLIDERS`
-	* `SORT_ASC`
-	* `SORT_DESC`
-	* `SWITCHES`
+## S
+* `search_ctrl_number`
+* `send_fx`
+* `send_fx_par`
+* `SEQUENTIAL`
+* `set_array`
+* `set_ctrl_pic`
+* `set_ctrl_text`
+* `set_family_values`
+* `set_family_visibility`
+* `set_font`
+* `set_level_meter_color`
+* `set_picture_state`
+* `set_pos`
+* `set_value`
+* `set_visibility`
+* `shift_ctrl`
+* `shift_family`
+* `SLIDERS`
+* `SORT_ASC`
+* `SORT_DESC`
+* `SWITCHES`
 
-T
-	* `TABLES`
-	* `TEXT_EDITS`
-	* `TEXT_LABELS`
-	* `timer`
-	* `TRUE`
+## T
+* `TABLES`
+* `TEXT_EDITS`
+* `TEXT_LABELS`
+* `timer`
+* `TRUE`
 
-V
-	* `VALUE_EDITS`
-	* `VERTICAL`
-	* `VISIBLE`
+## V
+* `VALUE_EDITS`
+* `VERTICAL`
+* `VISIBLE`
 
-W
-	* `WAVEFORMS`
+## W
+* `WAVEFORMS`
 
-Y
-	* `YES`
+## Y
+* `YES`
