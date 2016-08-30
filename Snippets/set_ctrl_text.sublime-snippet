@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-set_ctrl_text(${1:ui_id}, ${2:text})
-]]></content>
-	<tabTrigger>set_ctrl_text</tabTrigger>
-	<scope>source.ksp</scope>
-</snippet>

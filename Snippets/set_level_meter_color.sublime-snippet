@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-set_level_meter_color(${1:ui_id}, ${2:bg_color}, ${3:off_color}, ${4:on_color}, ${5:overload_color}, ${6:peak_color})
-]]></content>
-	<tabTrigger>set_level_meter_color</tabTrigger>
-	<scope>source.ksp</scope>
-</snippet>

@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-resize_ctrl(${1:ui_id}, ${2:w}, ${3:h})
-]]></content>
-	<tabTrigger>resize_ctrl</tabTrigger>
-	<scope>source.ksp</scope>
-</snippet>

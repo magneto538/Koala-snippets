@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-reverse(${1:arr})
-]]></content>
-	<tabTrigger>reverse</tabTrigger>
-	<scope>source.ksp</scope>
-</snippet>

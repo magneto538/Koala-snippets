@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-search_ctrl_number(${1:ui_id})
-]]></content>
-	<tabTrigger>search_ctrl_number</tabTrigger>
-	<scope>source.ksp</scope>
-</snippet>

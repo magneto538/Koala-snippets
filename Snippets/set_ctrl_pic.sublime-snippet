@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-set_ctrl_pic(${1:ui_id}, ${2:picture})
-]]></content>
-	<tabTrigger>set_ctrl_pic</tabTrigger>
-	<scope>source.ksp</scope>
-</snippet>

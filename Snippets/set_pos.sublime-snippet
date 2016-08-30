@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-set_pos(${1:ui_id}, ${2:x}, ${3:y})
-]]></content>
-	<tabTrigger>set_pos</tabTrigger>
-	<scope>source.ksp</scope>
-</snippet>

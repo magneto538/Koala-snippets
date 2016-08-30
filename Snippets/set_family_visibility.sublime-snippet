@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-set_family_visibility(${1:fam}, ${2:value})
-]]></content>
-	<tabTrigger>set_family_visibility</tabTrigger>
-	<scope>source.ksp</scope>
-</snippet>
