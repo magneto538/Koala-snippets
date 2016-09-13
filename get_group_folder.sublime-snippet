@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+get_group_folder(${1:group_id})
+]]></content>
+	<tabTrigger>get_group_folder</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>

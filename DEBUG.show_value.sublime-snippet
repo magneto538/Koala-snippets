@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+DEBUG.show_value(${1:lbl_idx}, ${2:var})
+]]></content>
+	<tabTrigger>DEBUG.show_value</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>
