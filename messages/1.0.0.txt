@@ -1,0 +1,1 @@
+* Added all the snippets for current Koala's function. The full list of functions is available at Koala's wiki, https://github.com/magneto538/Koala/wiki
