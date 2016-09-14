@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+group_allow_state(${1:group})
+]]></content>
+	<tabTrigger>group_allow_state</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>
