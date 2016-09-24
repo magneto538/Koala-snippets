@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+get_ctrl_max(${1:ui_id})
+]]></content>
+	<tabTrigger>get_ctrl_max</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>
