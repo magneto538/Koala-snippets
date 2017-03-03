@@ -1,0 +1,2 @@
+* Updated snippets to Koala v2.1.0.
+ The full list of functions is available at Koala's wiki, https://github.com/magneto538/Koala/wiki

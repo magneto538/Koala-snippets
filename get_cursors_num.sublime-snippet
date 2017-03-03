@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+get_cursors_num(${1:name})
+]]></content>
+	<tabTrigger>get_cursors_num</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>

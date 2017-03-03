@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+create_xy(${1:name}, ${2:fam}, ${3:x}, ${4:y}, ${5:w}, ${6:h}, ${7:default}, ${8:cursors}, ${9:cursors_pic}, ${10:pers_status}, m_behav_${3:x}, m_behav_${4:y}, ${13:m_mode}, ${14:background})
+]]></content>
+	<tabTrigger>create_xy</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+set_cursor_value(${1:name}, ${2:cursor_nr}, ${3:axis}, ${4:value})
+]]></content>
+	<tabTrigger>set_cursor_value</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>

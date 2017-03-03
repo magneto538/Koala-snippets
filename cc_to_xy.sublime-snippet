@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+cc_to_xy(${1:xy_name}, ${2:axis}, ${3:cursor_nr}, ${4:cc_number})
+]]></content>
+	<tabTrigger>cc_to_xy</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+xy_to_ep(${1:xy_name}, ${2:axis}, ${3:cursor_nr}, ${4:range_min}, ${5:range_max}, ${6:engine_par}, ${7:group}, ${8:slot}, ${9:generic})
+]]></content>
+	<tabTrigger>xy_to_ep</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>

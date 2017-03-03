@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+active_cursor(${1:ui_id})
+]]></content>
+	<tabTrigger>active_cursor</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>
