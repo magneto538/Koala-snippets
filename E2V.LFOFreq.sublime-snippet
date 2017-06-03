@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+E2V.LFOFreq(${1:in})
+]]></content>
+	<tabTrigger>E2V.LFOFreq</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>

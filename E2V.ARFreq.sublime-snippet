@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+E2V.ARFreq(${1:in})
+]]></content>
+	<tabTrigger>E2V.ARFreq</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>

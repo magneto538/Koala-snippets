@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+E2V.volume(${1:in})
+]]></content>
+	<tabTrigger>E2V.volume</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>

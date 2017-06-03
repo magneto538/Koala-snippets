@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+E2V.EqBW(${1:in})
+]]></content>
+	<tabTrigger>E2V.EqBW</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>

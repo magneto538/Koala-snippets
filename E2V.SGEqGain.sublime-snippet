@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+E2V.SGEqGain(${1:in})
+]]></content>
+	<tabTrigger>E2V.SGEqGain</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>

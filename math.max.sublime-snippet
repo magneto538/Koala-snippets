@@ -2,6 +2,6 @@
 	<content><![CDATA[
 math.max(${1:a}, ${2:b})
 ]]></content>
-	<tabTrigger>max</tabTrigger>
+	<tabTrigger>math.max</tabTrigger>
 	<scope>source.ksp</scope>
 </snippet>

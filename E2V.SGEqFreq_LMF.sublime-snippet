@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+E2V.SGEqFreq_LMF(${1:in})
+]]></content>
+	<tabTrigger>E2V.SGEqFreq_LMF</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>

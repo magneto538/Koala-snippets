@@ -2,6 +2,6 @@
 	<content><![CDATA[
 math.hypot(${1:cath_1}, ${2:cath_2})
 ]]></content>
-	<tabTrigger>hypot</tabTrigger>
+	<tabTrigger>math.hypot</tabTrigger>
 	<scope>source.ksp</scope>
 </snippet>

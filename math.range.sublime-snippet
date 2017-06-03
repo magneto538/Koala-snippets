@@ -2,6 +2,6 @@
 	<content><![CDATA[
 math.range(${1:a}, ${2:b})
 ]]></content>
-	<tabTrigger>range</tabTrigger>
+	<tabTrigger>math.range</tabTrigger>
 	<scope>source.ksp</scope>
 </snippet>

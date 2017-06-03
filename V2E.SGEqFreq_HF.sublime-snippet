@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+V2E.SGEqFreq_HF(${1:in})
+]]></content>
+	<tabTrigger>V2E.SGEqFreq_HF</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>
