@@ -2,5 +2,6 @@
     "install": "messages/install.txt",
     "1.0.0": "messages/1.0.0.txt",
     "1.0.5": "messages/1.0.5.txt",
-    "2.1.6": "messages/2.1.6.txt"
+    "2.1.6": "messages/2.1.6.txt",
+    "2.1.11": "messages/2.1.11.txt"
 }

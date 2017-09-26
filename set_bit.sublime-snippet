@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+set_bit(${1:value}, bit_${1:value}, ${3:bit_pos})
+]]></content>
+	<tabTrigger>set_bit</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>

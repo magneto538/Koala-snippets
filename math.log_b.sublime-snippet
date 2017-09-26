@@ -2,6 +2,6 @@
 	<content><![CDATA[
 math.log_b(${1:base}, ${2:value})
 ]]></content>
-	<tabTrigger>math.log_b</tabTrigger>
+	<tabTrigger>log_b</tabTrigger>
 	<scope>source.ksp</scope>
 </snippet>

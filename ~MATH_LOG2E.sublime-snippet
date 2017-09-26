@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+~MATH_LOG2E
+]]></content>
+	<tabTrigger>~MATH_LOG2E</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>

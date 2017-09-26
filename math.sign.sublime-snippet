@@ -2,6 +2,6 @@
 	<content><![CDATA[
 math.sign(${1:value}, ${2:return_mode})
 ]]></content>
-	<tabTrigger>math.sign</tabTrigger>
+	<tabTrigger>sign</tabTrigger>
 	<scope>source.ksp</scope>
 </snippet>

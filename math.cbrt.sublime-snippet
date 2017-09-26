@@ -2,6 +2,6 @@
 	<content><![CDATA[
 math.cbrt(${1:value})
 ]]></content>
-	<tabTrigger>math.cbrt</tabTrigger>
+	<tabTrigger>cbrt</tabTrigger>
 	<scope>source.ksp</scope>
 </snippet>

@@ -2,6 +2,6 @@
 	<content><![CDATA[
 math.int_to_hex(${1:int})
 ]]></content>
-	<tabTrigger>math.int_to_hex</tabTrigger>
+	<tabTrigger>int_to_hex</tabTrigger>
 	<scope>source.ksp</scope>
 </snippet>

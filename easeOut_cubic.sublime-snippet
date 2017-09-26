@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+easeOut_cubic(${1:t}, ${2:b}, ${3:c}, ${4:d})
+]]></content>
+	<tabTrigger>easeOut_cubic</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+nth_root(${1:idx}, ${2:value})
+]]></content>
+	<tabTrigger>nth_root</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>

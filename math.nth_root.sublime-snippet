@@ -2,6 +2,6 @@
 	<content><![CDATA[
 math.nth_root(${1:idx}, ${2:value})
 ]]></content>
-	<tabTrigger>math.nth_root</tabTrigger>
+	<tabTrigger>nth_root</tabTrigger>
 	<scope>source.ksp</scope>
 </snippet>

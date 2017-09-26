@@ -2,6 +2,6 @@
 	<content><![CDATA[
 math.pow3(${1:value})
 ]]></content>
-	<tabTrigger>math.pow3</tabTrigger>
+	<tabTrigger>pow3</tabTrigger>
 	<scope>source.ksp</scope>
 </snippet>

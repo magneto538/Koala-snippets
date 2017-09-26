@@ -2,6 +2,6 @@
 	<content><![CDATA[
 math.min(${1:a}, ${2:b})
 ]]></content>
-	<tabTrigger>math.min</tabTrigger>
+	<tabTrigger>min</tabTrigger>
 	<scope>source.ksp</scope>
 </snippet>

@@ -2,6 +2,6 @@
 	<content><![CDATA[
 math.int_to_bin(${1:int}, ${2:bit_nr})
 ]]></content>
-	<tabTrigger>math.int_to_bin</tabTrigger>
+	<tabTrigger>int_to_bin</tabTrigger>
 	<scope>source.ksp</scope>
 </snippet>

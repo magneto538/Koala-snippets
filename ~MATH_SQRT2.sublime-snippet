@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+~MATH_SQRT2
+]]></content>
+	<tabTrigger>~MATH_SQRT2</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>

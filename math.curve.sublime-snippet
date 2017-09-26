@@ -2,6 +2,6 @@
 	<content><![CDATA[
 math.curve(${1:curve_value}, ${2:lin_value}, ${3:curve_steps}, ${4:min}, ${5:max})
 ]]></content>
-	<tabTrigger>math.curve</tabTrigger>
+	<tabTrigger>curve</tabTrigger>
 	<scope>source.ksp</scope>
 </snippet>
