@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+BOLD.RED
+]]></content>
+	<tabTrigger>BOLD.RED</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>

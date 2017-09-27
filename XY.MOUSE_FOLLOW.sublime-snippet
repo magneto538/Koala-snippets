@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+XY.MOUSE_FOLLOW
+]]></content>
+	<tabTrigger>XY.MOUSE_FOLLOW</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+CONSOLE.RED
+]]></content>
+	<tabTrigger>CONSOLE.RED</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>

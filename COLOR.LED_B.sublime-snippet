@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+COLOR.LED_B
+]]></content>
+	<tabTrigger>COLOR.LED_B</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>

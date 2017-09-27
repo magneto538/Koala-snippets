@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+XY.MOUSE_FORCE
+]]></content>
+	<tabTrigger>XY.MOUSE_FORCE</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>
