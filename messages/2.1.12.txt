@@ -1,0 +1,4 @@
+KOALA SNIPPETS
+
+Updated snippets to Koala v2.1.12.
+The full list of functions is available at Koala's wiki, https://github.com/magneto538/Koala/wiki
