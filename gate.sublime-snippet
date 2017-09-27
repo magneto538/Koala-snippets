@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-gate(${1:value}, ${2:btm})
-]]></content>
-	<tabTrigger>gate</tabTrigger>
-	<scope>source.ksp</scope>
-</snippet>

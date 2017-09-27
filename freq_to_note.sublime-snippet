@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-freq_to_note(${1:freq}, ${2:ref})
-]]></content>
-	<tabTrigger>freq_to_note</tabTrigger>
-	<scope>source.ksp</scope>
-</snippet>

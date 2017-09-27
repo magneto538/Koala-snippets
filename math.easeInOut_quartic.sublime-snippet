@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+math.easeInOut_quartic(${1:t}, ${2:b}, ${3:c}, ${4:d})
+]]></content>
+	<tabTrigger>math.easeInOut_quartic</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>
