@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-math.easeIn_quad(${1:t}, ${2:b}, ${3:c}, ${4:d})
-]]></content>
-	<tabTrigger>math.easeIn_quad</tabTrigger>
-	<scope>source.ksp</scope>
-</snippet>

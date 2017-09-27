@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-math.linear_tween(${1:t}, ${2:b}, ${3:c}, ${4:d})
-]]></content>
-	<tabTrigger>math.linear_tween</tabTrigger>
-	<scope>source.ksp</scope>
-</snippet>

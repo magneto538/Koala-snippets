@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-math.bit_rnd(${1:unsigned})
-]]></content>
-	<tabTrigger>math.bit_rnd</tabTrigger>
-	<scope>source.ksp</scope>
-</snippet>

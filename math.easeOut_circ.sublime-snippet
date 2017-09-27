@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-math.easeOut_circ(${1:t}, ${2:b}, ${3:c}, ${4:d})
-]]></content>
-	<tabTrigger>math.easeOut_circ</tabTrigger>
-	<scope>source.ksp</scope>
-</snippet>
