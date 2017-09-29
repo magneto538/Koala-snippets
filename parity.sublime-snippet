@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-parity(${1:a})
-]]></content>
-	<tabTrigger>parity</tabTrigger>
-	<scope>source.ksp</scope>
-</snippet>
