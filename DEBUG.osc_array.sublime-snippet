@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+DEBUG.osc_array(${1:array_name})
+]]></content>
+	<tabTrigger>DEBUG.osc_array</tabTrigger>
+	<scope>source.ksp</scope>
+</snippet>
