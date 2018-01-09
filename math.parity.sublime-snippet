@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-easeOut_circ(${1:t}, ${2:b}, ${3:c}, ${4:d})
+math.parity(${1:a})
 ]]></content>
-	<tabTrigger>easeOut_circ</tabTrigger>
+	<tabTrigger>math.parity</tabTrigger>
 	<scope>source.ksp</scope>
 </snippet>

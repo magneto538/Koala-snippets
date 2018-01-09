@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-easeInOut_sine(${1:t}, ${2:b}, ${3:c}, ${4:d})
-]]></content>
-	<tabTrigger>easeInOut_sine</tabTrigger>
-	<scope>source.ksp</scope>
-</snippet>

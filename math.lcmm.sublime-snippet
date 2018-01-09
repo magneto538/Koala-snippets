@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-easeIn_cubic(${1:t}, ${2:b}, ${3:c}, ${4:d})
+math.lcmm(${1:arr})
 ]]></content>
-	<tabTrigger>easeIn_cubic</tabTrigger>
+	<tabTrigger>math.lcmm</tabTrigger>
 	<scope>source.ksp</scope>
 </snippet>

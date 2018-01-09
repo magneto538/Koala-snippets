@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-easeOut_elastic(${1:t}, ${2:b}, ${3:c}, ${4:d}, ${5:e})
-]]></content>
-	<tabTrigger>easeOut_elastic</tabTrigger>
-	<scope>source.ksp</scope>
-</snippet>

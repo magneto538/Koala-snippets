@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-easeOut_sine(${1:t}, ${2:b}, ${3:c}, ${4:d})
+math.reduce(${1:func}, ${2:args})
 ]]></content>
-	<tabTrigger>easeOut_sine</tabTrigger>
+	<tabTrigger>math.reduce</tabTrigger>
 	<scope>source.ksp</scope>
 </snippet>

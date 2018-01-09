@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-easeOut_expo(${1:t}, ${2:b}, ${3:c}, ${4:d})
+math.gcd(${1:x}, ${2:y})
 ]]></content>
-	<tabTrigger>easeOut_expo</tabTrigger>
+	<tabTrigger>math.gcd</tabTrigger>
 	<scope>source.ksp</scope>
 </snippet>
